@@ -2,9 +2,12 @@
 
 Một trang hồ sơ cá nhân (profile) đơn giản dùng Vite + Vanilla JS. Bạn có thể cấu hình ảnh nền, avatar, tên, mô tả và các liên kết TikTok/YouTube/Gmail thông qua file `.env`.
 
-- Nếu không đặt `VITE_AVATAR`, trang sẽ dùng logo mặc định (cấu hình bằng `VITE_LOGO`) kèm animation nhẹ. ✨
+- Nếu không đặt `VITE_AVATAR` hay `VITE_LOGO`, trang sẽ dùng logo mặc định kèm animation nhẹ. ✨
 - Tiêu đề tab và favicon lấy từ `VITE_NAME` và `VITE_LOGO`.
 
+🖼️ Hình ảnh minh họa (⚠️ Lưu ý, đây là hình ảnh sau khi đã chỉnh sửa file .env)
+
+![Logo GitHub](https://github.com/manhtien-2k14/simple-profile/blob/main/review.png)
 
 ## 🚀 Bắt đầu
 
